@@ -1,0 +1,70 @@
+body{
+background-color: rgba(218, 165, 32, 0.971);
+}
+
+.main-house{
+    /*text-align: center;*/
+    border: solid black 2px;
+    border-radius: 5px;
+    background-color: black;
+    width: 35%;
+    padding: 10px;
+    color: whitesmoke;
+    margin:20% 20%;
+}
+
+.todo{
+    text-align: center;
+}
+
+.add-task1{
+    text-align: center;
+
+}
+.add-task1 input{
+    width: 90%;
+    padding: 6px;
+    border-radius: 5px;
+}
+
+.add-task1 button{
+    position: relative;
+    float: right;
+    margin-top: -6.3%;
+    margin-right: 4%;
+    padding: 4px;
+    z-index: 1;
+    border-radius: 49%;
+    background-color: black;
+    color: white;
+}
+
+.table-head .p2{
+    float: right;
+    position: relative;
+    margin-top: -7.5%;
+    margin-right: 20%;
+}
+
+.task-desc .form1{
+    float: right;
+    position: relative;
+    z-index: 1;
+    margin-top: -2.7%;
+    margin-right: 2%;
+}
+
+/*.task-desc .task-and-desc{
+    border-right: solid white 2px;
+    position: relative;
+    z-index: 1;
+    height: 10px;
+    margin-right: 67%;
+    padding-top: %;
+    padding-bottom: %;
+    margin-top: -%;
+
+}
+
+
+
